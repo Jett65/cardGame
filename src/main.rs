@@ -1,3 +1,6 @@
+mod deckOfCardes;
+
 fn main() {
-    println!("Hello, world!");
+    deckOfCardes::print_message();
+
 }
